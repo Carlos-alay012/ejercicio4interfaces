@@ -1,0 +1,15 @@
+C:\Users\gamer\source\repos\ejercicio4_interfaces\ejercicio4_interfaces\obj\Debug\net7.0\ejercicio4_interfaces.csproj.AssemblyReference.cache
+C:\Users\gamer\source\repos\ejercicio4_interfaces\ejercicio4_interfaces\obj\Debug\net7.0\ejercicio4_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\source\repos\ejercicio4_interfaces\ejercicio4_interfaces\obj\Debug\net7.0\ejercicio4_interfaces.AssemblyInfoInputs.cache
+C:\Users\gamer\source\repos\ejercicio4_interfaces\ejercicio4_interfaces\obj\Debug\net7.0\ejercicio4_interfaces.AssemblyInfo.cs
+C:\Users\gamer\source\repos\ejercicio4_interfaces\ejercicio4_interfaces\obj\Debug\net7.0\ejercicio4_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\gamer\source\repos\ejercicio4_interfaces\ejercicio4_interfaces\bin\Debug\net7.0\ejercicio4_interfaces.exe
+C:\Users\gamer\source\repos\ejercicio4_interfaces\ejercicio4_interfaces\bin\Debug\net7.0\ejercicio4_interfaces.deps.json
+C:\Users\gamer\source\repos\ejercicio4_interfaces\ejercicio4_interfaces\bin\Debug\net7.0\ejercicio4_interfaces.runtimeconfig.json
+C:\Users\gamer\source\repos\ejercicio4_interfaces\ejercicio4_interfaces\bin\Debug\net7.0\ejercicio4_interfaces.dll
+C:\Users\gamer\source\repos\ejercicio4_interfaces\ejercicio4_interfaces\bin\Debug\net7.0\ejercicio4_interfaces.pdb
+C:\Users\gamer\source\repos\ejercicio4_interfaces\ejercicio4_interfaces\obj\Debug\net7.0\ejercicio4_interfaces.dll
+C:\Users\gamer\source\repos\ejercicio4_interfaces\ejercicio4_interfaces\obj\Debug\net7.0\refint\ejercicio4_interfaces.dll
+C:\Users\gamer\source\repos\ejercicio4_interfaces\ejercicio4_interfaces\obj\Debug\net7.0\ejercicio4_interfaces.pdb
+C:\Users\gamer\source\repos\ejercicio4_interfaces\ejercicio4_interfaces\obj\Debug\net7.0\ejercicio4_interfaces.genruntimeconfig.cache
+C:\Users\gamer\source\repos\ejercicio4_interfaces\ejercicio4_interfaces\obj\Debug\net7.0\ref\ejercicio4_interfaces.dll
